@@ -9,7 +9,7 @@ export function Header() {
         width="100"
         height="100"
       />
-      <h1>A1 Detail</h1>
+      <h1>A1 Detail yo</h1>
     </div>
   );
 }
